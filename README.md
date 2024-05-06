@@ -1,2 +1,1 @@
-# Wiredcore-Project
-A small game in Python i am making to train myself.
+"# Wiredcore-Project"                                                                            git init                                                                                                                                                    git add README.md
